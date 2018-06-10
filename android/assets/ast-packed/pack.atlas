@@ -1,0 +1,34 @@
+
+pack.png
+size: 1024,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Webp.net-resizeimage (1)
+  rotate: false
+  xy: 2, 0
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+Webp.net-resizeimage (2)
+  rotate: false
+  xy: 244, 0
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+Webp.net-resizeimage (3)
+  rotate: false
+  xy: 486, 0
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+Webp.net-resizeimage (4)
+  rotate: false
+  xy: 728, 0
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1

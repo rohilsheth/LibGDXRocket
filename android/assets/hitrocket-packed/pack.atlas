@@ -1,0 +1,27 @@
+
+pack.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+rocket1
+  rotate: false
+  xy: 2, 0
+  size: 300, 547
+  orig: 300, 547
+  offset: 0, 0
+  index: -1
+rocket2
+  rotate: false
+  xy: 304, 0
+  size: 300, 547
+  orig: 300, 547
+  offset: 0, 0
+  index: -1
+rocket3
+  rotate: false
+  xy: 606, 0
+  size: 300, 547
+  orig: 300, 547
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+pack.png
+size: 1024,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+sonic01
+  rotate: false
+  xy: 300, 4
+  size: 91, 87
+  orig: 91, 87
+  offset: 0, 0
+  index: -1
+sonic02
+  rotate: false
+  xy: 2, 4
+  size: 105, 87
+  orig: 105, 87
+  offset: 0, 0
+  index: -1
+sonic03
+  rotate: false
+  xy: 205, 3
+  size: 93, 88
+  orig: 93, 88
+  offset: 0, 0
+  index: -1
+sonic04
+  rotate: false
+  xy: 577, 4
+  size: 81, 87
+  orig: 81, 87
+  offset: 0, 0
+  index: -1
+sonic05
+  rotate: false
+  xy: 393, 6
+  size: 91, 85
+  orig: 91, 85
+  offset: 0, 0
+  index: -1
+sonic06
+  rotate: false
+  xy: 486, 3
+  size: 89, 88
+  orig: 89, 88
+  offset: 0, 0
+  index: -1
+sonic07
+  rotate: false
+  xy: 109, 4
+  size: 94, 87
+  orig: 94, 87
+  offset: 0, 0
+  index: -1
+sonic08
+  rotate: false
+  xy: 660, 0
+  size: 80, 91
+  orig: 80, 91
+  offset: 0, 0
+  index: -1
